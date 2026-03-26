@@ -7,7 +7,7 @@
 - 💬 Ask me about AI, Machine Learning, and Philosophy.
 - 📫 How to reach me: lowel.rubino29@gmail.com IG: lowel_j
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I swallowed a coin when I was a kid and got saved by my grandma with heimlech manuever.
+- ⚡ Fun fact: I swallowed a coin when I was a kid and got saved by my grandma with heimlich maneuver.
 <!--
 **lu-wiji/lu-wiji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
