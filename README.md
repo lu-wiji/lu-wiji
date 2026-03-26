@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on to be a Full Stack Web Developer.
+- 🌱 I’m currently learning HTML, CSS, and Javascript
+- 👯 I’m looking to collaborate on building projects that solve real-world problems.
+- 🤔 I’m looking for help with direction setting in becoming a Software Engineer.
+- 💬 Ask me about AI, Machine Learning, and Philosophy.
+- 📫 How to reach me: lowel.rubino29@gmail.com IG: lowel_j
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I swallowed a coin when I was a kid and got saved by my grandma with heimlech manuever.
 <!--
 **lu-wiji/lu-wiji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
